@@ -13,7 +13,7 @@
 
 ### Sample 4: 
 
-[sample4](https://github.com/NourJardali/c_programs_samples/blob/main/sample4.c) A sequence is defined by An = (n+1)/(2*n*n) for positive integers n.
+[sample4](https://github.com/NourJardali/c_programs_samples/blob/main/sample4.c) A sequence is defined by An = (n+1)/(2*n^2) for positive integers n.
 
 ### Sample 5: 
 
